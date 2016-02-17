@@ -1,6 +1,5 @@
 @import url("css/flexslider.css");
 @import url("css/sliders.css");
-@import url("css/shop.css");
 @import url("css/colorbox.css");
 
 
@@ -616,45 +615,6 @@
 		-moz-box-sizing:border-box;
 		box-sizing:border-box;
 	}
-	
-	
-	
-/*--------------------------------------------------
-	02. Preloader (Old)
-
-	
-	.clapat-mask {
-		background:#fff;
-		height:100%;
-		width:100%;
-		position:fixed;
-		z-index:1333;
-	}
-	
-	#clapatloader {
-		width: 40px;
-		height: 40px;
-		left: 50%;
-		top: 50%;
-		position: absolute;
-		margin: -20px 0 0 -20px;
-		background-color: #999;		
-		border-radius: 100%;  
-		-webkit-animation: scaleout 1.0s infinite ease-in-out;
-		animation: scaleout 1.0s infinite ease-in-out;
-	}
-	
-	@-webkit-keyframes scaleout {
-		0% { -webkit-transform: scale(0.0) }
-		100% {-webkit-transform: scale(1.0); opacity: 0; }
-	}
-	
-	@keyframes scaleout {
-		0% { 
-		transform: scale(0.0); -webkit-transform: scale(0.0); } 
-		100% { transform: scale(1.0); -webkit-transform: scale(1.0); opacity: 0; }
-	}	
----------------------------------------------------*/
 
 /*--------------------------------------------------
 	02. Preloader
